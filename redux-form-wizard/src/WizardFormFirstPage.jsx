@@ -19,6 +19,15 @@ const WizardFormFirstPage = (props) => {
                 component={renderField}
                 label="Last Name"
             />
+            <Field
+                name="page"
+                type="text"
+                component="select"
+                label="Last Name"
+            >
+                <option value="pageA">Page A</option>
+                <option value="pageB">Page B</option>
+            </Field>
             <div>
                 <button type="submit" className="next">
                     Next

@@ -1,4 +1,4 @@
-import { createStore, combineReducers } from 'redux';
+import { combineReducers } from 'redux';
 import { reducer as formReducer } from 'redux-form';
 
 const rootReducer = combineReducers({
@@ -7,7 +7,4 @@ const rootReducer = combineReducers({
     form: formReducer
 });
 
-// formReducer is now passed to the store
-const store = createStore(rootReducer);
-
-export default store;
+export default rootReducer;

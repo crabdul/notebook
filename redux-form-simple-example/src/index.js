@@ -2,11 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import ContactPage from './ContactPage';
-import reducers from './reducers';
-import { createStore } from 'redux';
+import configureStore from './configureStore';
 
 // formReducer is now passed to the store
-const store = createStore(reducers);
+const store = configureStore();
 
 ReactDOM.render(
     <Provider store={store}>

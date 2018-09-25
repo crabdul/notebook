@@ -6,10 +6,11 @@ import renderField from './renderField';
 const renderError = ({ meta: { touched, error } }) =>
     touched && error ? <span>{error}</span> : false;
 
-const WizardFormSecondPage = (props) => {
+const WizardFormSecondPageA = (props) => {
     const { handleSubmit, previousPage } = props;
     return (
         <form onSubmit={handleSubmit}>
+            <h1>Page A</h1>
             <Field
                 name="email"
                 type="email"
@@ -61,4 +62,4 @@ export default reduxForm({
     destroyOnUnmount: false,
     forceUnregisterOnUnmount: true, // <------ unregister fields on unmount
     validate
-})(WizardFormSecondPage);
+})(WizardFormSecondPageA);

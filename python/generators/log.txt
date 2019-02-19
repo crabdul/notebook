@@ -1,0 +1,4 @@
+WARNING: Disk usage
+DEBUG: User
+INFO: asdf dasf
+WARNING: Hello

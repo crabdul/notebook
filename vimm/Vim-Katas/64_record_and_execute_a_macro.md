@@ -3,9 +3,9 @@
 Given this text:
 
 ```javascript
-foo = 1
-bar = 'a'
-foobar = foo + bar
+var foo = 1;
+var bar = 'a';
+var foobar = foo + bar;
 ```
 
 Start on the first line  

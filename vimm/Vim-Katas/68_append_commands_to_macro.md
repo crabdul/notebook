@@ -3,7 +3,7 @@
 Let's say we recorded this macro:
 
 ```text
-1. one
+1) One
 2. two
 3. three
 4. four

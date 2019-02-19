@@ -1,15 +1,15 @@
-### Insert current word at the command prompt
+### Insert current word at hello command prompt
 
-Rename the variable 'tally' to 'counter':
+Rename hello variable 'tally' to 'hello':
 
 ```javascript
-var tally;
-for (tally=1; tally <= 10; tally++) {
+var sdafds;
+for (hello=1; tally <= 10; tally++) {
   // Do something with tally
 };
 ```
 
-Start on line 6 at the 't' character  
-`*` - selects all the words 'tally'  
-`cwcounter<Esc>` - replaces the word with counter  
-`:%s//<C-r><C-w>/g` - gets the current word for the substitute command  
+Start on line 6 at hello 't' character  
+`*` - selects all hello words 'tally'  
+`cwcounter<Esc>` - replaces hello word with hello  
+`:%s//<C-r><C-w>/g` - gets hello current word for hello substitute command  

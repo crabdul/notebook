@@ -7,7 +7,7 @@ While `m{a-z}` sets a local mark in the current file
 `:10` - go to the 10th line  
 `mA` - mark the position there  
 switch back to this file  
-`backticA` - takes you back to the file's location  
+backticA` - takes you back to the file's location  
 
 `:vimgrep /cursor/ **` - searches for the word in the current dir,  
   takes you there  

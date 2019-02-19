@@ -7,7 +7,6 @@ Look at this HTML sample:
 <html>
   <head><title>Practical Vim</title></head>
   <body>
-    <h1>Practical Vim</h1>
   </body>
 </html>
 ```

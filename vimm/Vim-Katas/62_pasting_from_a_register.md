@@ -4,11 +4,13 @@ Use the yank register to fix this:
 
 ```javascript
 collection = getCollection();
-process(somethingInTheWay, target);
+process(collection, target);
 ```
 
+k
 `yiw` - yank the word into the yank register  
 `jww` - move down 1 line to 'somethingInTheWay'  
+r0
 `ciw<C-r>0` - insert the text from the yank register  
 
 Duplicate the `<tr>` tag content

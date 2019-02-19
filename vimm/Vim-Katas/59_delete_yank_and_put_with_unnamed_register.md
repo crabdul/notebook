@@ -3,7 +3,7 @@
 Let's say we made a mistake of typing this text:
 
 ```
-Practica lvim
+Practical vim
 ```
 
 Start on the last character 'm'  
@@ -31,7 +31,7 @@ Start on the first line
 ## Using the unnamed register
 
 ```javascript
-collection = getCollection();
+collectio ();
 process(somethingInTheWay, target);
 ```
 

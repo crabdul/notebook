@@ -14,7 +14,7 @@ process(somethingInTheWay, target);
 
 Another exercise: swap the 2 words "chips" and "fish"
 
-I like chips and fish.
+I like fish and chips.
 
 Start on 'I'  
 `fc` - find the first word to swap  

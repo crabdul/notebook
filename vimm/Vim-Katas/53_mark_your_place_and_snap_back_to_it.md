@@ -1,6 +1,8 @@
 ### Mark Your Place and Snap Back to It
 
 `m{a-zA-Z}` - marks the location of the cursor
+adsff dsf 
+
 
 `:18` - go to the 18th row  
 `ma`  - mark the line  
@@ -9,7 +11,6 @@
 
 _Built in marks_
 
-`'.` - location of last change  
 `'^` - location of last insert  
 `'[` - start of last change or yank  
 `']` - end of last change or yank  
@@ -28,12 +29,10 @@ _Built in marks_
 10
 11
 12
-13
 14
 15
 16
 17
-18
 19
 20
 21

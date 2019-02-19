@@ -14,7 +14,7 @@ Start on the first opening paren
 `%` - jump to the last curly  
 
 ```ruby
-%w{London Berlin New\ York}
+{London Berlin New\ York]
 ```
 
 `dt{` - deletes the '%w' part  

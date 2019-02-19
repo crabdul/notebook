@@ -8,3 +8,16 @@
 `backtic .` - moves you to the last change  
 `backtic ^` - moves you to the last insertion  
 `gi` - live insert mode, move around, this takes you back to insert mode where I left off  
+
+
+`gi` - live insert mode, move around, this takes you back to insert mode where I left off  
+`gi` - live insert mode, move around, this takes you back to insert mode where I left off  
+
+
+dasfsdaf asdfs fs ;j
+
+
+dasfsdaf asdfs fs ;j
+
+
+dasfsdaf asdfs fs ;j

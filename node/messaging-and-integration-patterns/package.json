@@ -1,0 +1,16 @@
+{
+  "name": "messaging-and-integration-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ventilator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "variations-stream": "^0.1.3",
+    "zmq": "^2.15.3"
+  }
+}
